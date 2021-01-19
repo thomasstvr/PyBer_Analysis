@@ -1,0 +1,7 @@
+# PyBer Analysis
+The purpose of this analysis is to dive further into the PyBer rideshare data and create a line plot based on three types of cities: Urban, Suburban and Rural. The data was sorted by city type and grouped by date into weekly categories where the fare in $USD was plotted.
+
+##Results
+
+
+![](https://github.com/thomasstvr/PyBer_Analysis/blob/main/analysis/pyber_summary.png)
